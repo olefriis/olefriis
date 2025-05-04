@@ -11,3 +11,5 @@ Here are some projects that I'm really proud of:
 * 🌈 [Experiments with shaders](https://github.com/olefriis/misty-window)
 
 I love doing the yearly [Advent of Code](https://adventofcode.com) and have [my previous solutions online](https://github.com/olefriis/advent-of-code) for you to laugh at.
+
+If you've been to any of my "Test Automation" talks, you can [find the material here](https://github.com/olefriis/test-automation-talk).
