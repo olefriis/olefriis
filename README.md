@@ -1,25 +1,13 @@
 ### Hi there 👋
 
-Current spare-time project: [Make Stunt Car Racer run in a browser (and on your phone)](https://github.com/olefriis/stuntcarracer).
+I have [a pretty dated blog](https://olefriis.github.io).
 
-Previous projects that I'm really proud of:
-* [Convert C-64 music to midi and Sonic Pi formats](https://github.com/olefriis/sidtool)
-* Control your Danfoss Eco (TM) smart thermostats:
+Here are some projects that I'm really proud of:
+* 🚙 [Make Stunt Car Racer run in a browser (and on your phone)](https://github.com/olefriis/stuntcarracer)
+* 🎼 [Convert C-64 music to midi and Sonic Pi formats](https://github.com/olefriis/sidtool)
+* 🌡️ Control your Danfoss Eco (TM) smart thermostats from your computer:
   * [Rust version](https://github.com/olefriis/Eco2-rust)
   * [C# version](https://github.com/olefriis/Eco2)
-* [Experiments with shaders](https://github.com/olefriis/misty-window)
+* 🌈 [Experiments with shaders](https://github.com/olefriis/misty-window)
 
-<!--
-**olefriis/olefriis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I love doing the yearly [Advent of Code](https://adventofcode.com) and have [my previous solutions online](https://github.com/olefriis/advent-of-code) for you to laugh at.
